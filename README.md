@@ -24,8 +24,7 @@ Abrir una terminal en la carpeta del proyecto.
 
 Ejecutar el servidor:
 
-bash
-Copiar código
+
 python servidor.py
 El servidor correrá en http://127.0.0.1:5000.
 
@@ -33,8 +32,7 @@ Abrir otra terminal en la misma carpeta.
 
 Ejecutar el cliente:
 
-bash
-Copiar código
+
 python cliente.py
 Usar el menú para:
 
